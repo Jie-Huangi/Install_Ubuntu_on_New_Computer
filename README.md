@@ -1,4 +1,4 @@
-# Install_Ubuntu_on_New_Computer
+# Install Ubuntu on New Computer
  
 1、系统安装
 
