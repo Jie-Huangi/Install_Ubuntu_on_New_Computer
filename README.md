@@ -43,6 +43,7 @@ sudo apt --fix-broken install
 
 
 > 禁止升级 chrome and edge
+
 > sudo apt-mark hold google-chrome-stable
 
 > sudo apt-mark hold microsoft-edge-stable
